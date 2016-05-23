@@ -2,6 +2,7 @@ target/
 lint.xml
 bin/
 gen/
+build
 .settings
 .project
 .classpath
